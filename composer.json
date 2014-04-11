@@ -1,0 +1,21 @@
+{
+    "name": "summerorm/orm",
+    "description": "orm for php",
+    "version": "0.1.0-dev",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Vladimir Khramov",
+            "email": "quant13@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SummerOrm\\": "src/"
+        }
+    }
+
+}
