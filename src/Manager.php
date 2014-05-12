@@ -17,7 +17,8 @@ class Manager {
     }
 
 
-    public function get(int $filters) {
+    public function get($filters)
+    {
 
     }
 
